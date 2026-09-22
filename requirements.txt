@@ -1,0 +1,2 @@
+qiskit[visualize]
+matplotlib
